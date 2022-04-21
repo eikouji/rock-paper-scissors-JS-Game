@@ -9,6 +9,8 @@ Paper beats rock, but loses to Scissors
 
 Scissors beats paper, but loses to rock.
 
+If Scissors = Scissors, Paper = Paper, OR Rock = Rock, there will be a draw. 
+
 # Tools and Concepts in this Game #
 .getElementById()
 .querySelectorAll()

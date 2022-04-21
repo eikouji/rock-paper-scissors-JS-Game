@@ -1,0 +1,22 @@
+* {
+    font-family: 'Varela Round', sans-serif;
+}
+
+body {
+    background-color: rgb(0, 13, 26);
+}
+
+.hero-container {
+    color: lightgrey;
+    text-align: center;
+}
+
+.choices-container {
+    background: linear-gradient(to top left, #00ffff 21%, #ff99cc 61%);
+    text-align: center;
+}
+
+button {
+    margin: 2rem;
+    padding: 2rem;
+}
