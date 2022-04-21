@@ -27,3 +27,5 @@ Math.random()
 
 
 # URL to app #
+
+https://eikouji.github.io/paper-scissors-rock-JS-Game/
