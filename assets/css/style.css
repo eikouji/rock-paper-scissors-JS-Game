@@ -49,7 +49,7 @@ button:hover,
 button:focus {
     background: linear-gradient(to top left, #0000ff -3%, #990099 105%);
     color: white; 
-}
+};
 
 .img {
     display: flex;
