@@ -12,14 +12,14 @@ Scissors beats paper, but loses to rock.
 If Scissors = Scissors, Paper = Paper, OR Rock = Rock, there will be a draw. 
 
 # Tools and Concepts in this Game #
-.getElementById()
-.querySelectorAll()
-.forEach()
-.addEventListener()
-.innerHTML
-e.target.id
-Math.floor()
-Math.random()
+* .getElementById()
+* .querySelectorAll()
+* .forEach()
+* .addEventListener()
+* .innerHTML
+* e.target.id
+* Math.floor()
+* Math.random()
 
 # Screen cap of working game #
 
