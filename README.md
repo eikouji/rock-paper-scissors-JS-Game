@@ -23,4 +23,7 @@ Math.random()
 
 # Screen cap of working game #
 
+![Screenshot 2022-04-20 222742](https://user-images.githubusercontent.com/91100425/164380642-af79d698-50ab-472f-bbc6-ddc5daae4b2b.jpg)
+
+
 # URL to app #
