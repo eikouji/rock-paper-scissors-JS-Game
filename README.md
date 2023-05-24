@@ -1,7 +1,7 @@
 # Paper Scissors Rock JavaScript Game #
 
 # Description #
-A JavaScript paper-scissors-rock game. 
+A JavaScript Scissors-Paper-Rock game. 
 
 Rock beats Scissors, but loses to Paper
 
