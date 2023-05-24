@@ -1,4 +1,4 @@
-#Scissors Paper Rock JavaScript Game #
+# Scissors Paper Rock JavaScript Game #
 
 # Description #
 A JavaScript Scissors-Paper-Rock game. 
