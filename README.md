@@ -3,11 +3,7 @@
 # Description #
 A JavaScript Scissors-Paper-Rock game. 
 
-Rock beats Scissors, but loses to Paper
-
-Paper beats Rock, but loses to Scissors
-
-Scissors beats Paper, but loses to Rock.
+Scissors > Paper, Paper > Rock, Rock > Scissors
 
 If Scissors = Scissors, Paper = Paper, OR Rock = Rock, there will be a draw. 
 
