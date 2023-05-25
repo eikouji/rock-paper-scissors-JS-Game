@@ -1,7 +1,7 @@
-# Scissors Paper Rock JavaScript Game #
+# Rock Paper Scissors JavaScript Game #
 
 # Description #
-A JavaScript Scissors-Paper-Rock game. 
+A JavaScript Rock Paper Scissors game. 
 
 Scissors > Paper, Paper > Rock, Rock > Scissors
 

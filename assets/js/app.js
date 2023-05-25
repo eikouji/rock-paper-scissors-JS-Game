@@ -41,37 +41,37 @@ function generateComputerChoice() {
 function getResult() {
     if (computerChoice === userChoice) {
         // results in a tie, or a draw //
-        result = 'Tie game!'
+        result = 'Draw!'
     }
 
-    // computer rock vs you paper / you win! //
+    // computer rock vs user paper / you win! //
     if (computerChoice === 'rock' && userChoice === "paper") {
-        result = 'You win!!'
+        result = 'You won!'
     }
 
     // computer rock vs you scissors / you lose //
     if (computerChoice === 'rock' && userChoice === "scissors") {
-        result = 'You lose =('
+        result = 'You lost!'
     }
 
     // computer paper vs you rock / you lose //
     if (computerChoice === 'paper' && userChoice === "rock") {
-        result = 'You lose =('
+        result = 'You lost!'
     }
 
     // computer paper vs you scissors / you win! //
     if (computerChoice === 'paper' && userChoice === "scissors") {
-        result = 'You win!!'
+        result = 'You win!'
     }
 
     // computer scissors vs you rock / you win //
     if (computerChoice === 'scissors' && userChoice === "rock") {
-        result = 'You win!!'
+        result = 'You win!'
     }
 
     // computer scissors vs you paper / you lose //
     if (computerChoice === 'scissors' && userChoice === "paper") {
-        result = 'You lose =('
+        result = 'You lost!'
     }
 
     resultDisplay.innerHTML = result
